@@ -1,0 +1,41 @@
+        body {
+            background-color: #e6f2ff;
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            text-align: center;
+            color: #003366;
+        }
+
+        h2 {
+            color: #003366;
+        }
+
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+            color: #333333;
+        }
+        .mybox {
+            border: 2px solid #003366;
+            border-radius: 15px;
+            padding: 10px;
+            margin: 20px auto;
+            width: 65%;
+            background-color: #cce0ff;
+        }
+        .myboxborderless {
+            border: none;
+            border-radius: 15px;
+            padding: 10px;
+            margin: 20px auto;
+            width: 65%;
+            background-color: #cce0ff;
+        }  
+        img {
+            display: block;
+            margin: 10px auto;
+            border-radius: 10px;
+        }
+        
